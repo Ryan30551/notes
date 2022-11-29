@@ -8,23 +8,23 @@ const App = () => {
     const [notes, setNotes] = useState([
     {
       id: nanoid(),
-      text: "This is my first note!",
-      date: "15/04/2021",
+      text: "Go Christmas Shopping",
+      date: "12/04/2022",
     },
     {
       id: nanoid(),
-      text: "This is my second note!",
-      date: "15/05/2021",
+      text: "Make Holiday Cookies",
+      date: "12/05/2022",
     },
     {
       id: nanoid(),
-      text: "This is my new note!",
-      date: "15/06/2021",
+      text: "Watch Holiday movies!",
+      date: "12/06/2022",
     },
     {
       id: nanoid(),
-      text: "This is my fourth note!",
-      date: "15/07/2021",
+      text: "Spend time with Friends and Family!",
+      date: "12/07/2022",
     },
   ]);
 
